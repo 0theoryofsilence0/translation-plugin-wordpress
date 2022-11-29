@@ -17,7 +17,7 @@ Create a dropdown menu named "lang", then under it, add a custom links that are 
 # Add Additional language
 Modify the translate.php file to add more function for the language that you'll need to add 
 
-![Add Additional Language](assets/code.png)
+![Add Additional Language](assets/add-shortcode.png)
 
 # Add Language Code as a class on body tag
 Access the template header.php to add modify and add the following code to so that you can control the contents dynamically via CSS or JS
