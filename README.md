@@ -1,5 +1,5 @@
 # translation-plugin-wordpress
-A translation plugin for wordpress using shortcode without needing to append the language code to the url/slug
+A translation plugin for wordpress using Session and shortcode without needing to append the language code to the url/slug like any other translation plugin
 
 ![Screenshot](assets/screenshot.png)
 
